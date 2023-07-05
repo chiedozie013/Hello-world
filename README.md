@@ -127,4 +127,6 @@ I would like to thank Microverse community for this opportunity to learn new thi
 
 ## 📝 License <a name="license"></a>
 
+This project is [MIT](https://github.com/chiedozie013/portfolio-microverse/blob/main/LICENSE) licensed.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
